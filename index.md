@@ -1,6 +1,6 @@
 # pytorch-book-notes
 
-Notes in Jupyter Notebook form from Chapters 12 through 19 of *Machine Learning with PyTorch and Scikit-Learn* by Sebastian Raschka, Yuxi Liu, and Vahid Mirjalili (Packt, February 2022).
+Notes in Jupyter Notebook form from Chapters 12 through 19 of *Machine Learning with PyTorch and Scikit-Learn* by Sebastian Raschka, Yuxi Liu, and Vahid Mirjalili (Packt, February 2022). The goal of this set of notes is not to copy over book content -- the source code for the book is available [here](https://github.com/rasbt/machine-learning-book){:target="_blank"} -- but rather to organize selected code and concepts into short-form notes in the spirit of tl;dr.
 
 | Chapter | Title | Link |
 | --- | --- | --- |
